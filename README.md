@@ -8,19 +8,19 @@ ScanLibrary is an android document scanning library built on top of OpenCV, usin
 <a href="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/Icanscan1.jpeg" />
 <img width="23%" src="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/Icanscan1.jpeg" alt="Scan Input" title="Scan Input"></img>
 
-<a href="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/Icanscan2.jpeg" />
-<img width="23%" src="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/Icanscan2.jpeg" alt="Scan Points" title="Scan Points"></img>
+<a href="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/icanscan2.jpeg" />
+<img width="23%" src="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/icanscan2.jpeg" alt="Scan Points" title="Scan Points"></img>
 
-<a href="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/Icanscan3.jpeg" />
-<img width="23%" src="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/Icanscan3.jpeg" alt="After Scan" title="After Scan"></img>
+<a href="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/icanscan3.jpeg" />
+<img width="23%" src="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/icanscan3.jpeg" alt="After Scan" title="After Scan"></img>
 
-<a href="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/Icanscan4.jpeg" />
-<img width="23%" src="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/Icanscan4.jpeg" alt="Scanned Result" title="Scanned Result"></img>
+<a href="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/icanscan4.jpeg" />
+<img width="23%" src="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/icanscan4.jpeg" alt="Scanned Result" title="Scanned Result"></img>
 
-<a href="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/Icanscan5.jpeg" />
-<img width="23%" src="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/Icanscan5.jpeg" alt="Scanned Result" title="Scanned Result"></img>
+<a href="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/icanscan5.jpeg" />
+<img width="23%" src="https://github.com/dhavalmaniyar/ICANSCAN/blob/main/ScanDemoExample/icanscan5.jpeg" alt="Scanned Result" title="Scanned Result"></img>
 </div>
-
+<!-- 
 # Videos
 
 <div align="center" >
@@ -86,3 +86,4 @@ Note: preference can be one of OPEN_CAMERA or OPEN_MEDIA or left empty, based on
 	
 
 - **IMPORTANT:** This project uses the OPENCV Framework. Download the newest version here 'http://opencv.org/.
+ -->
